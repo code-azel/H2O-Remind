@@ -18,11 +18,11 @@ Here is the
 Jefferson A. Costales
 ## School Name:
 Eulogio "Amang" Rodriguez Insitute of Science and Technology<br>
-<br>
+
 Nagtahan, Sampaloc, Manila, Philippines<br>
-<br>
+
 College of Arts and Sciences<br>
-<br>
+
 ITE Department
 ## Course:
 Bachelor of Science in Information Technology

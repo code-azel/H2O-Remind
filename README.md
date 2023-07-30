@@ -1,4 +1,4 @@
-![image](https://github.com/code-azel/H2O-Remind/assets/116578446/b442107d-4e36-4210-b361-206756b4fea6)![image](https://github.com/code-azel/H2O-Remind/assets/116578446/59cbcc01-bd2c-44a0-85ea-33aa113c720a)# H2O Buddy: Hydration Tracking App
+# H2O Buddy: Hydration Tracking App
 
 
 

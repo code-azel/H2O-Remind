@@ -1,4 +1,4 @@
-# H2O-Remind
+# H2O Buddy: Hydration Tracking App
 
 
 

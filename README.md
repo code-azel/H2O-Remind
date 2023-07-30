@@ -29,9 +29,11 @@ H2O Buddy is an Android Application that keeps the user stay hydrated by having 
 
 
 
-## Demo Video
+## Demo Video and User Manual
 Here is the
 [H2O Demo Video](https://drive.google.com/file/d/1h85f2FTU7KrRKcLfqcU0TxsmpbjGf6IP/view?fbclid=IwAR0Q_u9oceODJJNmV77efBf47taZ9oWmvytC9T-LCw0YPPSNtLYi6SehLjA)
+Here is the
+[User Manual]([https://drive.google.com/file/d/1h85f2FTU7KrRKcLfqcU0TxsmpbjGf6IP/view?fbclid=IwAR0Q_u9oceODJJNmV77efBf47taZ9oWmvytC9T-LCw0YPPSNtLYi6SehLjA](https://docs.google.com/document/d/1qT0isISyTdpoDorUNGleyEcTA9ZBQHty/edit?fbclid=IwAR1F7nOt8h_qokGNZM1qdD7V-WrvXfMCAb_tMYNR-M9zVxHlFwtATJAdap0))
 ## Researcher/Developer:
 - Azio Elord Bardaje
 - Kaye Casuyon

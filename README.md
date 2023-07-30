@@ -17,9 +17,9 @@ Here is the
 ## Adviser:
 Jefferson A. Costales
 ## School Name:
-Eulogio "Amang" Rodriguez Insitute of Science and Technology
-Nagtahan, Sampaloc, Manila, Philippines
-College of Arts and Sciences
+Eulogio "Amang" Rodriguez Insitute of Science and Technology<br>
+Nagtahan, Sampaloc, Manila, Philippines<br>
+College of Arts and Sciences<br>
 ITE Department
 ## Course:
 Bachelor of Science in Information Technology

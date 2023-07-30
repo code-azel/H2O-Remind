@@ -1,10 +1,13 @@
-# H2O Buddy: Hydration Tracking App
+![image](https://github.com/code-azel/H2O-Remind/assets/116578446/b442107d-4e36-4210-b361-206756b4fea6)![image](https://github.com/code-azel/H2O-Remind/assets/116578446/59cbcc01-bd2c-44a0-85ea-33aa113c720a)# H2O Buddy: Hydration Tracking App
 
 
 
 ## Overview
 An application that will keep the user stay hydrated by having them reminded to drink water based on specific goal.
-![Uploading image.png…]()
+![358992937_304605265409195_8589739740269092458_n](https://github.com/code-azel/H2O-Remind/assets/116578446/a4374f37-cfff-4920-aaaa-ee8aba27a834)
+
+
+
 
 
 ## Key Features

@@ -11,7 +11,18 @@ An application that will keep the user stay hydrated by having them reminded to 
 
 
 ## Key Features
-1. 
+1. Water Intake
+![359555730_252878597211718_7927051882541723232_n](https://github.com/code-azel/H2O-Remind/assets/116578446/b953a037-77f4-44ad-b1df-74dc37b6501d)
+
+2. Statistics
+![358801839_1017870712693979_3841258042676805093_n](https://github.com/code-azel/H2O-Remind/assets/116578446/1c673d33-2ff2-403a-88ab-5afb8511ff5a)
+
+3. Additional Settings for:
+  - Reminders
+  - Ringtone
+  - water intake
+![359803677_841535327150191_8473693694813233410_n](https://github.com/code-azel/H2O-Remind/assets/116578446/bb1e33a7-e41e-4134-a37c-8194b16c323d)
+
 
 ## Demo Video
 Here is the

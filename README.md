@@ -15,7 +15,7 @@ Here is the
 - Juliet Estrada
 - Gela Alyssa Chanel Ortega
 ## Adviser:
-Jefferson A. Costales
+- Jefferson A. Costales
 ## School Name:
 Eulogio "Amang" Rodriguez Insitute of Science and Technology<br>
 
@@ -25,9 +25,8 @@ College of Arts and Sciences<br>
 
 ITE Department
 ## Course:
-Bachelor of Science in Information Technology
-## Year & Section:
-3A
+- Bachelor of Science in Information Technology
+
 ## Date: 
-July 31, 2023
+- July 31, 2023
 

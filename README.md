@@ -3,8 +3,13 @@
 
 
 ## Overview
-H2O Buddy is an Android Application that keeps the user stay hydrated by having them reminded to drink water based on specific goal. The user is also accompanied with reminders that can be modified. Then, it can be turned on or off, and they could select from 30, 45, 60 mins of frequent reminders to take their water for the day.
-<img src="https://github.com/code-azel/H2O-Remind/assets/116578446/a4374f37-cfff-4920-aaaa-ee8aba27a834" alt="alt text" width="330" height="672" />
+H2O Buddy is an Android Application that keeps the user stay hydrated by having them reminded to drink water based on specific goal. The user is also accompanied with reminders that can be modified. Then, it can be turned on or off, and they could select from 30, 45, & 60 mins of frequent reminders to take their water for the day.
+<div style="display: flex;">
+  <img src="https://github.com/code-azel/H2O-Remind/assets/116578446/a4374f37-cfff-4920-aaaa-ee8aba27a834" alt="alt text" width="330" height="672" />
+  <img src="https://github.com/code-azel/H2O-Remind/assets/116578446/105b145b-64d5-4e84-83f0-d3abd82f29a5" alt="alt text" width="330" height="672" />
+</div>
+
+
 
 
 

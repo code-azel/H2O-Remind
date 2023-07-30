@@ -4,7 +4,7 @@
 
 ## Overview
 An application that will keep the user stay hydrated by having them reminded to drink water based on specific goal.
-<img src="https://github.com/code-azel/H2O-Remind/assets/116578446/a4374f37-cfff-4920-aaaa-ee8aba27a834" alt="alt text" width="310" height="672" />
+<img src="https://github.com/code-azel/H2O-Remind/assets/116578446/a4374f37-cfff-4920-aaaa-ee8aba27a834" alt="alt text" width="325" height="672" />
 
 
 
